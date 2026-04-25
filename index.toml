@@ -1,0 +1,11 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/lc-tech.pw.toml"
+hash = "080f88eb1f74b14604c3c00af84cee515df4679577929ba9694707c2e86daf9d"
+metafile = true
+
+[[files]]
+file = "mods/lightmans-currency.pw.toml"
+hash = "46b22316c4fa4dca86a145f2592b4b626f8dfd10096080046209119f80d9ff87"
+metafile = true
