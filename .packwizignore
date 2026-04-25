@@ -1,2 +1,26 @@
+# Development only
 .devcontainer/
 .github/
+.vscode/
+
+# Generated exports / temporary files
+*.mrpack
+*.zip
+dist/
+build/
+
+# Local runtime data
+logs/
+crash-reports/
+screenshots/
+saves/
+
+# Launcher / user-local files
+options.txt
+servers.dat
+launcher_profiles.json
+packwiz-installer-bootstrap.jar
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
