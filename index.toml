@@ -221,6 +221,11 @@ hash = "f9c118b7a66238a7f9e052705e82402e57c7a5b753d62d679b94701ede479752"
 metafile = true
 
 [[files]]
+file = "mods/gamma-utils.pw.toml"
+hash = "87107489ec3356a09252eba6817c85ee683148bc6352c1274d1e0043da83a4e1"
+metafile = true
+
+[[files]]
 file = "mods/get-it-together-drops.pw.toml"
 hash = "82a892755a825ac7724c84c063cef2f884fc8c3b36ac1da8bb02dbbd76af58aa"
 metafile = true
