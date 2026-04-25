@@ -21,6 +21,11 @@ hash = "ae6fd52d8bdcbeca5bbe6db840f22f92c1928fe0fda22017b19612b9b00a245a"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
+metafile = true
+
+[[files]]
 file = "mods/enhanced-block-entities-neoforged.pw.toml"
 hash = "ba19e88c2de56b0dbfc1731333e983dfaf0abb900fe36d1893e0cf70077e6ef5"
 metafile = true
@@ -48,6 +53,16 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "b6e0a61fea06f8d6d8e1672cf07b682625c4b74efd548d5093cd9c1fed167eec"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "5367193d3f87b7bc5a81bcd64a5b96a843e76d4df7a83c8bb7e1911aa82dd52e"
 metafile = true
 
 [[files]]
