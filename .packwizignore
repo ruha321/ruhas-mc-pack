@@ -2,6 +2,8 @@
 .devcontainer/
 .github/
 .vscode/
+*.md
+docs/
 
 # Generated exports / temporary files
 *.mrpack
