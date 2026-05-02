@@ -238,7 +238,7 @@ hash = "bb7fccb66e61b757a41c1c7703ebd1b1f2427485b12beeb9dcb210d4784e8bc1"
 
 [[files]]
 file = "datapacks/ruha_economy_game/data/ruha_economy/function/start.mcfunction"
-hash = "e45656b08ffb3fc94a80b0da7605c6fe7136733bc4f8a758fc2497b6cbfe54f0"
+hash = "2321b8b9bf5f14e5c384df95b97a5153d81abe24d32b2429a69c09d3d5544eaa"
 
 [[files]]
 file = "datapacks/ruha_economy_game/data/ruha_economy/function/station/clear_exchange.mcfunction"
