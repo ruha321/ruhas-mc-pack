@@ -181,6 +181,94 @@ file = "config/trades/minecraft/custom_wandering_trader_trades.json"
 hash = "b1f998f077902b84cc0ad1dfbe807c299a9fb6eb110053ac67881d6feaafdb66"
 
 [[files]]
+file = "datapacks/ruha_economy_game/data/minecraft/tags/function/load.json"
+hash = "87d4060fc0d559d768ce07103dadfbd0a2cd9031f2401a842f6982e57446f617"
+
+[[files]]
+file = "datapacks/ruha_economy_game/data/minecraft/tags/function/tick.json"
+hash = "72d6555429913dadc839a1a5eb7dc492577be716c28122f2245650153bcc3cc4"
+
+[[files]]
+file = "datapacks/ruha_economy_game/data/ruha_economy/function/dev/teleport_exchange.mcfunction"
+hash = "255bdcb0d32bfa40eff8a5ece5ed3e9a3b84e6428f477e68ac7036ad4f76607a"
+
+[[files]]
+file = "datapacks/ruha_economy_game/data/ruha_economy/function/dev/teleport_shop.mcfunction"
+hash = "10c423826c13e71d911be3d6c37575c63b2c395e144d3bd8ad0625d48c670611"
+
+[[files]]
+file = "datapacks/ruha_economy_game/data/ruha_economy/function/dev/wipe_scoreboards.mcfunction"
+hash = "c581f4855de8c02147dba1219ae0420c1305995e4800ee9d5ca3b53d55a32e43"
+
+[[files]]
+file = "datapacks/ruha_economy_game/data/ruha_economy/function/finish.mcfunction"
+hash = "cacce6ad8f786eb8398284fd37fc41894a01d21c7ededd4f73bfb88d7f13dd97"
+
+[[files]]
+file = "datapacks/ruha_economy_game/data/ruha_economy/function/game_tick.mcfunction"
+hash = "969a298d795c86272cac72d17dd0fc208f27051c7890cadcd14b4832ae557dbc"
+
+[[files]]
+file = "datapacks/ruha_economy_game/data/ruha_economy/function/load.mcfunction"
+hash = "409ca65087e336d31fad456d5e489a0b68945774cbd11cf3a2ede0a6b5a909b1"
+
+[[files]]
+file = "datapacks/ruha_economy_game/data/ruha_economy/function/reset.mcfunction"
+hash = "fab8c1fbb935a4c08394a94048c0d4c1796934b5a648a3fc5d67c448de0add94"
+
+[[files]]
+file = "datapacks/ruha_economy_game/data/ruha_economy/function/shop/buy_pickaxe.mcfunction"
+hash = "5f8ae4cb5e0d3800772ab72eba0c13c4d8ba3509bf888caadd5d85ce0528bd5d"
+
+[[files]]
+file = "datapacks/ruha_economy_game/data/ruha_economy/function/shop/buy_pickaxe_success.mcfunction"
+hash = "6ac7b6bbf6240d80ccc7fd290d8b8b8ad3fcfb0fa59bfedaa27780608fa9e127"
+
+[[files]]
+file = "datapacks/ruha_economy_game/data/ruha_economy/function/shop/clear_shop.mcfunction"
+hash = "64f48ae7b64c92a57da5ee96b0932a153b5c41f47c8865923ec38ad0b19a0eaf"
+
+[[files]]
+file = "datapacks/ruha_economy_game/data/ruha_economy/function/shop/place_shop.mcfunction"
+hash = "0fb21b1bf84cba0819c9d0cf407388ceeb10894719c57e6cd2b75fbb70fca7c9"
+
+[[files]]
+file = "datapacks/ruha_economy_game/data/ruha_economy/function/shop/shop_tick.mcfunction"
+hash = "77887759353a7837a43027fbb985bd4674c5c3e38c5107e254e92eeb5be13eab"
+
+[[files]]
+file = "datapacks/ruha_economy_game/data/ruha_economy/function/start.mcfunction"
+hash = "f6eca4ff6a64b300a7f419b180a98c5e619ee0875f2d3a6ed22d732995ce4edd"
+
+[[files]]
+file = "datapacks/ruha_economy_game/data/ruha_economy/function/station/clear_exchange.mcfunction"
+hash = "e9c7a72c9b9e779511af9e90e37aa9a5a95e98b452fb232a65a13dc3d47091cd"
+
+[[files]]
+file = "datapacks/ruha_economy_game/data/ruha_economy/function/station/exchange_iron.mcfunction"
+hash = "9a39c926602892b5e3fb040f0a62c3bba6e0b9f5b34fd3f484f993b1ae313c20"
+
+[[files]]
+file = "datapacks/ruha_economy_game/data/ruha_economy/function/station/exchange_iron_success.mcfunction"
+hash = "a47551b1a42baeb704d55b2493d919d76c919c938cf51e1c9075a4dea2ebaeeb"
+
+[[files]]
+file = "datapacks/ruha_economy_game/data/ruha_economy/function/station/exchange_tick.mcfunction"
+hash = "f3c1a896a7736ead97dc77c2be812d9bd85e2b9155ac10b836063106646926d1"
+
+[[files]]
+file = "datapacks/ruha_economy_game/data/ruha_economy/function/station/place_exchange.mcfunction"
+hash = "77ecfdcc5ff5efb0fbae23e97096b759a925d8748c03a8099c8e7a07b18efddb"
+
+[[files]]
+file = "datapacks/ruha_economy_game/data/ruha_economy/function/tick.mcfunction"
+hash = "c228fa798c5457bfb2b5bce2afe44d0da46f0aae52c052f5ff2db679a82b01c4"
+
+[[files]]
+file = "datapacks/ruha_economy_game/pack.mcmeta"
+hash = "6a6ac6d89ff801d060eb9294c6366d148355fc686bee712a5b334c87af2d7e1b"
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "18cf2b63d293ba0738c1073690fbd2c62305b161f76d346a551a66a9bbf8af32"
 metafile = true
