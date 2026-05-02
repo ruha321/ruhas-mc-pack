@@ -230,15 +230,15 @@ hash = "64f48ae7b64c92a57da5ee96b0932a153b5c41f47c8865923ec38ad0b19a0eaf"
 
 [[files]]
 file = "datapacks/ruha_economy_game/data/ruha_economy/function/shop/place_shop.mcfunction"
-hash = "0fb21b1bf84cba0819c9d0cf407388ceeb10894719c57e6cd2b75fbb70fca7c9"
+hash = "65530b8b887f8590c87eaa67426b459dc5bf8454b37874226de7ed5d163dbab1"
 
 [[files]]
 file = "datapacks/ruha_economy_game/data/ruha_economy/function/shop/shop_tick.mcfunction"
-hash = "77887759353a7837a43027fbb985bd4674c5c3e38c5107e254e92eeb5be13eab"
+hash = "bb7fccb66e61b757a41c1c7703ebd1b1f2427485b12beeb9dcb210d4784e8bc1"
 
 [[files]]
 file = "datapacks/ruha_economy_game/data/ruha_economy/function/start.mcfunction"
-hash = "f6eca4ff6a64b300a7f419b180a98c5e619ee0875f2d3a6ed22d732995ce4edd"
+hash = "e45656b08ffb3fc94a80b0da7605c6fe7136733bc4f8a758fc2497b6cbfe54f0"
 
 [[files]]
 file = "datapacks/ruha_economy_game/data/ruha_economy/function/station/clear_exchange.mcfunction"
@@ -258,7 +258,7 @@ hash = "f3c1a896a7736ead97dc77c2be812d9bd85e2b9155ac10b836063106646926d1"
 
 [[files]]
 file = "datapacks/ruha_economy_game/data/ruha_economy/function/station/place_exchange.mcfunction"
-hash = "77ecfdcc5ff5efb0fbae23e97096b759a925d8748c03a8099c8e7a07b18efddb"
+hash = "b5a9ac3a224b65a50bcae2a1d0556d5416c4c5413e0fc20a9f1d5f19e730c1df"
 
 [[files]]
 file = "datapacks/ruha_economy_game/data/ruha_economy/function/tick.mcfunction"

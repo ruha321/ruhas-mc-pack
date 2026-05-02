@@ -1,7 +1,7 @@
 function ruha_economy:reset
 
 worldborder center 0 0
-worldborder set 500
+worldborder set 1000
 
 function ruha_economy:station/place_exchange
 function ruha_economy:shop/place_shop
