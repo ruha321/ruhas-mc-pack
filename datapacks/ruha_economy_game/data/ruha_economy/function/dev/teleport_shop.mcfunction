@@ -1,0 +1,1 @@
+tp @s @e[tag=ruha_shop_station,limit=1]

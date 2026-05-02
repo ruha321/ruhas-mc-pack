@@ -1,0 +1,8 @@
+scoreboard objectives setdisplay sidebar
+scoreboard objectives setdisplay list
+scoreboard objectives setdisplay below_name
+
+scoreboard objectives remove ruha_cash
+scoreboard objectives remove ruha_total
+scoreboard objectives remove ruha_game
+scoreboard objectives remove ruha_buy_pickaxe

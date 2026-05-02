@@ -1,0 +1,1 @@
+execute if items entity @s container.* minecraft:iron_ingot[count~{min: 16}] run function ruha_economy:station/exchange_iron_success

@@ -1,0 +1,1 @@
+execute if score $state ruha_game matches 1 run function ruha_economy:game_tick
