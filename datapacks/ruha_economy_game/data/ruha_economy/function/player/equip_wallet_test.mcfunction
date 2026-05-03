@@ -1,0 +1,1 @@
+give @s lightmanscurrency:wallet_diamond 1
