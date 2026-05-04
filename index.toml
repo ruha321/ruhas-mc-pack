@@ -286,6 +286,11 @@ hash = "18cf2b63d293ba0738c1073690fbd2c62305b161f76d346a551a66a9bbf8af32"
 metafile = true
 
 [[files]]
+file = "mods/break-all-of-the-same-block-and-more.pw.toml"
+hash = "c3cd26d9bf71ed2722b181bef70994b841f56a53ce2be1aa01718c3e4321ca9f"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
