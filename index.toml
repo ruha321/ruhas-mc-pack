@@ -296,6 +296,11 @@ hash = "2acaff560bbda5741538528a2967355ec86a8f7564adba0b2316989c66892374"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "3c5f7edea027f0da74058bdb40b4e333d41df0246c1a8ebcf7df160c34565402"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "ae6fd52d8bdcbeca5bbe6db840f22f92c1928fe0fda22017b19612b9b00a245a"
 metafile = true
@@ -418,4 +423,9 @@ metafile = true
 [[files]]
 file = "mods/sodiumleafculling.pw.toml"
 hash = "a73dfb1bf6884ae786b2def0624dee9010bf121d0b5678b46043d9312f54b501"
+metafile = true
+
+[[files]]
+file = "mods/tree-harvester.pw.toml"
+hash = "acaf6d5f5cc298e92fd1a9598330661aefdb6721447e23300b2adc54433be57e"
 metafile = true
