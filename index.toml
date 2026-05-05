@@ -301,13 +301,18 @@ hash = "3c5f7edea027f0da74058bdb40b4e333d41df0246c1a8ebcf7df160c34565402"
 metafile = true
 
 [[files]]
+file = "mods/corpse.pw.toml"
+hash = "e2edf339c98dbdcf04f46a15276e9b1b5bbdeee0f1ac8b7d9bddb1ee8e54b9a1"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "ae6fd52d8bdcbeca5bbe6db840f22f92c1928fe0fda22017b19612b9b00a245a"
 metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
+hash = "1fc8ab07ea6f6abf5252a680f4ee72d7feaa652bc6b17214b1ddc5f5fe4c5d6d"
 metafile = true
 
 [[files]]
@@ -423,6 +428,11 @@ metafile = true
 [[files]]
 file = "mods/sodiumleafculling.pw.toml"
 hash = "a73dfb1bf6884ae786b2def0624dee9010bf121d0b5678b46043d9312f54b501"
+metafile = true
+
+[[files]]
+file = "mods/tmrv.pw.toml"
+hash = "1ddbad6aaf1126aa523d27935c0bbc3a0f10b8208f200f35d6873c22b02530de"
 metafile = true
 
 [[files]]
